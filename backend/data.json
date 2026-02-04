@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1770141509373,
+      "name": "Ayesha"
+    },
+    {
+      "id": 1770141648410,
+      "name": "Maryam"
+    },
+    {
+      "id": 1770180423113,
+      "name": "Falaq"
+    }
+  ],
+  "workspaces": [
+    {
+      "id": 1770141525805,
+      "name": "Frontend Project",
+      "users": []
+    },
+    {
+      "id": 1770141658182,
+      "name": "Backend Project",
+      "users": []
+    },
+    {
+      "id": 1770180451097,
+      "name": "Project Management",
+      "users": []
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1770141536563,
+      "title": "Design Homepage",
+      "workspaceId": "1770141525805",
+      "completed": true
+    },
+    {
+      "id": 1770180831483,
+      "title": "Build API",
+      "workspaceId": 1770141658182,
+      "completed": true
+    },
+    {
+      "id": 1770180922911,
+      "title": "Arrange the Schedule",
+      "workspaceId": 1770180451097,
+      "completed": false
+    },
+    {
+      "id": 1770201002927,
+      "title": "css",
+      "workspaceId": 1770141525805,
+      "completed": true
+    }
+  ]
+}
