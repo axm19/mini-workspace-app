@@ -30,7 +30,7 @@ Open `frontend/index.html` in your preferred browser.
 ![App Screenshot](frontend/screenshot4.png) 
 ![App Screenshot](frontend/screenshot5.png) 
 ![App Screenshot](frontend/screenshot6.png) 
-![App Screenshot](backend/screenshotsummary.png) 
-![App Screenshot](backend/screenshotusers.png) 
+![App Screenshot](frontend/screenshotsummary.png) 
+![App Screenshot](frontend/screenshotusers.png) 
 
 
