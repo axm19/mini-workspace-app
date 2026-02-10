@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://mini-workspace-app.onrender.com";
 //users
 async function loadUsers() {
   const res = await fetch(API_URL + "/users");
